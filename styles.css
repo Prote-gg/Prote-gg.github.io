@@ -1,0 +1,11 @@
+.hello-button{
+    background-color: red;
+    color: white;
+    border: none;
+}
+
+.hey-button{
+    background-color: white;
+    color: red;
+    border: none;
+}
