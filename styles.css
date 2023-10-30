@@ -1,11 +1,16 @@
 .hello-button{
     background-color: red;
     color: white;
-    border: none;
+    
 }
 
 .hey-button{
-    background-color: white;
+    background-color: blue;
     color: red;
-    border: none;
+    
+}
+
+.faceit-button{
+    background-color: grey;
+    color: red;
 }
