@@ -1,16 +1,19 @@
 .hello-button{
     background-color: red;
     color: white;
+    cursor: pointer;
     
 }
 
 .hey-button{
     background-color: blue;
     color: red;
+    cursor: pointer;
     
 }
 
 .faceit-button{
     background-color: grey;
     color: red;
+    cursor: pointer;
 }
