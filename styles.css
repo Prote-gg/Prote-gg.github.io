@@ -9,7 +9,7 @@ body{
     cursor: pointer;
     height: 35px;
     width: 100px;
-    border-radius: 2px;
+    border-radius: 4px;
     margin: 5px;
   }
   
@@ -19,7 +19,7 @@ body{
     cursor: pointer;
     height: 35px;
     width: 100px;
-    border-radius: 2px;
+    border-radius: 4px;
     margin: 5px;
   }
   
@@ -30,7 +30,7 @@ body{
     cursor: pointer;
     height: 35px;
     width: 100px;
-    border-radius: 2px;
+    border-radius: 4px;
     margin: 5px;
   }
   
@@ -47,11 +47,12 @@ body{
   
   .nav{
     background-color: purple;
+    cursor: pointer;
     height: 50px;
     width: 100px;
     margin: 5px;
     position: relative;
-    border: 2px;
+    border-width: 2px;
     border-radius: 5px;
     transform: translateX(40px);
   }
