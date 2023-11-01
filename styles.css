@@ -1,4 +1,9 @@
-.youtube-button{
+body{
+    background-color: rgb(192, 192, 192);
+  }
+  
+  
+  .youtube-button{
     background-color: red;
     color: white;
     cursor: pointer;
@@ -6,9 +11,9 @@
     width: 100px;
     border-radius: 2px;
     margin: 5px;
-}
-
-.hey-button{
+  }
+  
+  .hey-button{
     background-color: blue;
     color: red;
     cursor: pointer;
@@ -16,10 +21,10 @@
     width: 100px;
     border-radius: 2px;
     margin: 5px;
-}
-
-
-.faceit-button{
+  }
+  
+  
+  .faceit-button{
     background-color: grey;
     color: red;
     cursor: pointer;
@@ -27,8 +32,24 @@
     width: 100px;
     border-radius: 2px;
     margin: 5px;
-}
-
-
-
-h1{text-align: center;}
+  }
+  
+  
+  
+  h1{
+    text-align: center;
+  }
+  
+  #main {
+    background-color: purple;
+    height: 75px;
+  }
+  
+  .nav{
+    background-color: purple;
+    height: 50px;
+    width: 100px;
+    margin: 5px;
+    position: relative;
+    transform: translateX(40px);
+  }
