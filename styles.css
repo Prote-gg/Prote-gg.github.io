@@ -51,5 +51,6 @@ body{
     width: 100px;
     margin: 5px;
     position: relative;
+    border: 5px;
     transform: translateX(40px);
   }
