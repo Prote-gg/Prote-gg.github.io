@@ -56,3 +56,22 @@ body{
     border-radius: 5px;
     transform: translateX(40px);
   }
+
+  .text{
+    font-size: 30px;
+  }
+
+
+  .mylogo{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    transform: translateX(720px) translateY(-50%);
+  }
+
+  .mylogosub{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    transform: translateX(720px) translateY(-2.5%);
+  }
